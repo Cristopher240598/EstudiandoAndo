@@ -1,0 +1,255 @@
+.bg-gradient-primary-prb {
+  background-color: #086aac;
+  background-image: linear-gradient(180deg,rgb(8,106,172) 50%,#0b00aa);
+  background-size: cover;
+}
+
+.background-register {
+  background-color: #f6f6f6;
+}
+
+.display-inline-block {
+  display: inline-block !important;
+  width: auto;
+  border-radius: 10rem;
+}
+
+@media (min-width: 1200px) {
+  .col-create-student {
+    max-width: 50%!important;
+  }
+}
+
+@media (min-width: 1400px) {
+  .col-create-student {
+    max-width: 40%!important;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-create-activity {
+    max-width: 70%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .col-create-activity {
+    max-width: 60%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .col-create-activity {
+    max-width: 50%!important;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-create-student {
+    max-width: 60%;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-create-student-app {
+    margin-right: 5px;
+  }
+}
+
+@media (min-width: 300px) {
+  .col-create-student-apm {
+    margin-top: 5px;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-create-student-apm {
+    margin-left: 5px;
+    margin-top: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-create-student-ap {
+    max-width: 50%;
+  }
+}
+
+.marco {
+  overflow: hidden;
+}
+
+.zoom-on-hover:hover .image {
+  transform: scale(1.3);
+}
+
+.zoom-on-hover .image {
+  transition: 1s;
+}
+
+@media (min-width: 300px) {
+  .col-activities {
+    min-width: 100%;
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-activities {
+    min-width: 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .col-activities {
+    min-width: 25%;
+    max-width: 25%;
+  }
+}
+
+@media (min-width: 300px) {
+  .col.col-students {
+    min-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .col.col-students {
+    min-width: 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  .col.col-students {
+    min-width: 25%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .col.col-students {
+    min-width: 20%!important;
+    max-width: 20%!important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .col-forums {
+    max-width: 40%!important;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-forums {
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 300px) {
+  .col-create-activity-tutor {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-create-activity-tutor {
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 576px) {
+  .p-5-create-activity-tutor {
+    padding: 48px!important;
+  }
+}
+
+@media (min-width: 300px) {
+  .p-5-create-activity-tutor {
+    padding: 0px;
+  }
+}
+
+@media (min-width: 768px) {
+  .img-cat {
+    margin-top: 0px!important;
+  }
+}
+
+@media (min-width: 300px) {
+  .img-cat {
+    margin-top: 10px;
+  }
+}
+
+btn-estado {
+}
+
+@media (min-width: 300px) {
+  .btn-estado {
+    margin-top: 10px!important;
+  }
+}
+
+@media (min-width: 737px) {
+  .btn-estado {
+    margin-top: 0px!important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .col-tutor-admin {
+    min-width: 50%!important;
+  }
+}
+
+@media (min-width: 300px) {
+  .col-tutor-admin {
+    min-width: 100%;
+  }
+}
+
+@media (min-width: 300px) {
+  .col-tutores-admin-int {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 300px) {
+  .col-tutores-admin-int-1 {
+    max-width: 100%;
+    min-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-tutores-admin-int-1 {
+    min-width: 70%!important;
+  }
+}
+
+@media (min-width: 300px) {
+  .col-tutores-admin-int-2 {
+    max-width: 100%;
+    min-width: 100%;
+  }
+}
+
+@media (min-width: 300px) {
+  .col-tutores-admin-int-2 a {
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-tutores-admin-int-2 a {
+    margin-top: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-tutores-admin-int-2 {
+    min-width: 30%!important;
+  }
+}
+
